@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.niall.quotes.OpeningScreen">
+    tools:context="com.nmfr.niall.quotes.tcd.nmfr.niall.quotes.OpeningScreen">
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"

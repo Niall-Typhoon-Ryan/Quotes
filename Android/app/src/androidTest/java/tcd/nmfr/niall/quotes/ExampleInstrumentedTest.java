@@ -1,4 +1,4 @@
-package com.example.niall.quotes;
+package tcd.nmfr.niall.quotes;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
